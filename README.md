@@ -3,7 +3,7 @@ A test repository
 
 Submtting a test changes.
 
-Adding more changes
+Deleted and added new line
 
 
 More and more changes
